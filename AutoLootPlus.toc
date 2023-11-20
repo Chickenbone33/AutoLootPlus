@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cff9966ffAutoLootPlus|r
+## Notes: |cffff69b4Looting at a flawless speed!|r
+## Author: Nikolay Efremov
+## Version: 1.0
+## SavedVariables: AutoLootPlusDB
+## OptionalDeps: ElvUI, ElvUI_Config
+
+AutoLootPlus.lua
